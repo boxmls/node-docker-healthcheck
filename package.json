@@ -1,0 +1,27 @@
+{
+  "name": "boxmls/docker-healthcheck",
+  "version": "0.1.4",
+  "description": "BoxMLS Utility to check status of Docker Container",
+  "main": "lib/docker-healthcheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boxmls/node-docker-healthcheck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boxmls/node-docker-healthcheck/issues"
+  },
+  "homepage": "https://github.com/boxmls/node-docker-healthcheck#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "countdown": "^2.6.0",
+    "lodash": "^4.0.0",
+    "prettier-bytes": "^1.0.3",
+    "request": "^2.81.0",
+    "root-require": "^0.3.1"
+  }
+}
