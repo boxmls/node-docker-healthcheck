@@ -1,5 +1,5 @@
 {
-  "name": "boxmls/docker-healthcheck",
+  "name": "docker-healthcheck",
   "version": "0.1.4",
   "description": "BoxMLS Utility to check status of Docker Container",
   "main": "lib/docker-healthcheck.js",
