@@ -15,7 +15,7 @@ Does analyze of the docker container where service is started.
 ```js
 // Initialize the docker object.
 // It allows to set custom options
-var healthcheck = require( 'boxmls/docker-healthcheck' ).create( {
+var healthcheck = require( 'docker-healthcheck' ).create( {
   // By default, all statuses checks enabled
   // But you can disable status check for particular status.
   // e.g. elastic_status, since some services, such as mpo-rets-api, do not use Elasticsearch 
