@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/boxmls/node-docker-healthcheck#readme",
   "dependencies": {
-    "async": "^1.5.0",
+    "async": "^1.5.2",
     "countdown": "^2.6.0",
-    "lodash": "^4.0.0",
-    "prettier-bytes": "^1.0.3",
-    "request": "^2.81.0",
+    "lodash": "^4.17.11",
+    "prettier-bytes": "^1.0.4",
+    "request": "^2.88.0",
     "root-require": "^0.3.1"
   }
 }
