@@ -1,6 +1,6 @@
 {
   "name": "boxmls-docker-healthcheck",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "BoxMLS Utility to check status of Docker (pod) Container",
   "main": "lib/docker-healthcheck.js",
   "scripts": {
