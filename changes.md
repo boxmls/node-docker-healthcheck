@@ -1,3 +1,6 @@
+### 0.1.6
+* Added support to use `https` for ES endpoint
+
 ### 0.1.5
 * Increased request timeout for elastic status.
 
